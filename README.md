@@ -1,1 +1,2 @@
-# Snake-Ladders
+# Snake and Ladders
+### A LeetCode Problem
